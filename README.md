@@ -65,10 +65,10 @@ print(ali.is_adult())  # True
 
 <p>This will be output:</p>
 
-<!-- <pre> -->
+<pre>
 <code>
 Ali greets Upi
 True
 </code>
-<!-- </pre> -->
+</pre>
 
