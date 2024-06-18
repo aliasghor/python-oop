@@ -48,13 +48,7 @@ print(ali.is_adult())  # True
     <li><code>def __str__(self) -> str:</code> Same like before, this is called Python special method. In this case, it will provide an "informal" string representation of an object or nicely printable string representation of an object.</li>
     <li><code>def greet(self):</code> An instance method to greet another object's name.</li>
     <li><code>def is_adult()</code> An instance method to check if a human is an adult.</li>
-    <li>
-        <code>
-                @staticmethod
-                def human_is_adult(persons_age):
-        </code>
-        to determine adulthood based on age.
-    </li>
+    <li><code>def human_is_adult_(persons_age):</code> This is called a static method, static method acts like a helper function (method). In this case, it will help to determine adulthood based on age.</li>
 </ol>
 <pre>
 <code>
