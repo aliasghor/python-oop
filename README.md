@@ -41,18 +41,21 @@ print(ali.greet(mom))  # Ali greets Upi
 print(ali.is_adult())  # True
 </code>
 </pre>
-
 <p>Here's what the code does:</p>
-
 <ol>
-    <li>Defines a <code>Human</code> class with <code>name</code> and <code>age</code> attributes.</li>
-    <li>Provides a <code>__str__</code> method for a human-readable string representation.</li>
-    <li>Provides a <code>__repr__</code> method for an official string representation.</li>
-    <li>Adds a <code>greet</code> method for one human to greet another.</li>
-    <li>Adds an <code>is_adult</code> method to check if a human is an adult.</li>
-    <li>Uses a static method <code>human_is_adult</code> to determine adulthood based on age.</li>
+    <li><code>Class Human:</code> A class serves as a blueprint for creating objects (instances) of that class; it also serves to create a new type of object, including it's attribute and methods.</li>
+    <li><code>def __repr__(self) -> str:</code> This is called Python special method (magic method) that is called implicitly by Python to execute a certain operation on a type. In this case, it will provide an "offical" string representation of an object.</li>
+    <li><code>def __str__(self) -> str:</code> Same like before, this is called Python special method. In this case, it will provide an "informal" string representation of an object or nicely printable string representation of an object.</li>
+    <li><code>def greet(self):</code> An instance method to greet another object's name.</li>
+    <li><code>def is_adult()</code> An instance method to check if a human is an adult.</li>
+    <li>
+        <code>
+                @staticmethod
+                def human_is_adult(persons_age):
+        </code>
+        to determine adulthood based on age.
+    </li>
 </ol>
-
 <pre>
 <code>
 ali = Human("Ali", 21)
@@ -62,8 +65,6 @@ print(ali.greet(mom))  # Ali greets Upi
 print(ali.is_adult())  # True
 </code>
 </pre>
-
-<p>This will be output:</p>
-
+<p>This will be the output:</p>
 <p><samp>Ali greets Upi <br>True</samp></p>
 
