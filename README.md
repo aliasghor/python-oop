@@ -56,6 +56,6 @@ print(ali.greet(mom))  # Ali greets Upi
 print(ali.is_adult())  # True
 </code>
 </pre>
-<p>This will be the output:</p>
+<p>The output will be:</p>
 <p><samp>Ali greets Upi <br>True</samp></p>
 
