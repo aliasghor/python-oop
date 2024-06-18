@@ -5,7 +5,7 @@
 <p>According to <a href="https://en.wikipedia.org/wiki/Object-oriented_programming">wikipedia</a>, OOP (also known and abbreviated as OOP) is a programming paradigm based on the concept of objects, which can contain data and code: data in the form of fields (known as attribute or property) and code in the form of procedures (often known as methods). In OOP, computer programs are designed by making them out of objects that interact with one another.</p>
 <br>
 <h2>Example of Python OOP code:</h2>
-<p>
+```python
 class Human:
     def __init__(self, name: str, age: int) -> None:
         self.name = name
@@ -29,9 +29,8 @@ class Human:
             return False
         return True
     
-ali = Human("ALi", 21)
+ali = Human("Ali", 21)
 mom = Human("Upi", 56)
 
-print(ali.greet(mom))
-
-print(ali.is_adult())</p>
+print(ali.greet(mom))  # Ali greets Upi
+print(ali.is_adult())  # True
