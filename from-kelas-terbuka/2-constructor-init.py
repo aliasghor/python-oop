@@ -7,7 +7,7 @@
 # The `class` keyword is used to group every method and attributes together to definew a new type of object (instance). 
 class Hero:
     def __init__(self, name: str, health: int, power: int, armor: int) -> None:
-        # Initalize the object's attribute value to each objects.
+        # initialize the object's attribute value to each objects.
         self.name = name
         self.health = health
         self.power = power
