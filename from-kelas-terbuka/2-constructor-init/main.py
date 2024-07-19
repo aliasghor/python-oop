@@ -4,7 +4,7 @@
 # Constructor __init__ is used to initalize an instance's or object's attribute value implicitly using the `self` parameter.
 # `self` refers to an object of the class. Currently in this code `self` refers to hero1 and hero2 objects.
 
-# The `class` keyword is used to group every method and attributes together to definew a new type of object (instance). 
+# `class` keyword acts like template that is used to group every method and attributes together to definew a new type of object (instance). 
 class Hero:
     def __init__(self, name: str, health: int, power: int, armor: int) -> None:
         # initialize the object's attribute value to each objects.
