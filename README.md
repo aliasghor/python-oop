@@ -1,3 +1,3 @@
 # Howdy! Welcome To My `from-kelas-terbuka` Branch
 
-This branch contains my Python OOP (Object-Oriented Programming) tutorial from [kelas terbuka](www.youtube.com/@KelasTerbuka). I also added some extra informations from outside sources, such as chatbots, websites, doccumentations, and from another YouTube channels to balance their informations.
+This branch contains my Python OOP (Object-Oriented Programming) tutorial from [kelas terbuka](www.youtube.com/@KelasTerbuka). Despite that I watched the Python OOP tutorial from his YouTube channel, I also added extra informations from outside sources (e.g., Python documentations, another YouTube channels, chatbots, and online books.) to balance their informations.
