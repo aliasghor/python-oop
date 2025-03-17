@@ -17,3 +17,6 @@ Object-Oriented programming (OOP) is a paradigm based on the concept of wrapping
 ## 2. Constructor
 
 The `__init__()` method is special method that is automatically called when an object (instance) of a class is created. Its primary purpose is used to initalize the object's attribute value through the `self` parameter. (`self` parameter is a mandatory parameter for all instance and special methods because, behind the scences, Python automatically passes the objects as for the first argument.)
+
+## 3. Class Dan Instance Variables
+Class variables are variables that are shared across all instances of a class, whereas instance variables are variables that are unique to each instance of a class.
