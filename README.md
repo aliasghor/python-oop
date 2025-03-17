@@ -8,7 +8,7 @@ I borrowed the Python OOP tutorials from kelas terbuka (also known as "Faqihza M
 
 In spite of I watched his Python OOP tutorials, I have also incorporated additional informations from outside sources, such as other YouTube channels, Python doccumentations, chatbots, and online books to provide more comprehensive understanding of each Python OOP tutorial topic.
 
-# Tutorial Summaryy
+# Tutorial Summary
 
 ## 1. Pendahuluan Object-Oriented Programming
 
