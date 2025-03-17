@@ -16,7 +16,7 @@ As I mentioned on the main branch, Object-Oriented Programming (OOP) is a paradi
 
 ## 2. Constructor
 
-The `__init__()` method is a [special method](https://docs.python.org/3/glossary.html#term-special-method) that is automatically called when an object (instance) of a class is created. Its primary purpose is used to initalize the object's attribute value implicitly through the `self` parameter. (`self` parameter is a mandatory parameter for all instance and special methods because, behind the scences, Python automatically passes the object as for the first argument.)
+The `__init__()` method is a [special method](https://docs.python.org/3/glossary.html#term-special-method) that is automatically called when an object (instance) of a class is created. Its primary purpose is to initalize the object's attribute value implicitly through the `self` parameter. (`self` parameter is a mandatory parameter for all instance and special methods because, behind the scences, Python automatically passes the object as for the first argument.)
 
 ## 3. Class Dan Instance Variables
 Class variables are variables that are shared across all instances of a class, whereas instance variables are variables that are unique to each instance of a class.
