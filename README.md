@@ -2,7 +2,9 @@
 
 This branch contains my Python OOP (Object-Oriented Programming) tutorials from [kelas terbuka](www.youtube.com/@KelasTerbuka). 
 
-# References
+# Reference
+
+![Kelas Terbuka Logo](https://avatars.githubusercontent.com/u/36947813?s=200&v=4)
 
 I borrowed the Python OOP tutorials from kelas terbuka (also known as "Faqihza Mukhlish"). Kelas terbuka means "public class", which means it is opened for everyone who is interested in studying programming. For more comprehensive informations of kelas terbuka, please kindly go to his profile YouTube channel.
 
