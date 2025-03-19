@@ -14,7 +14,7 @@ In addition, I have also incorporated additional information from outside source
 
 ## 1. Pendahuluan Object-Oriented Programming
 
-As I mentioned on the main branch, Object-Oriented Programming (OOP) is a paradigm based on the concept of wrapping pieces of **data** (attributes) and **behaviour** (methods) into speical bundles called objects, which are constructed from a set of "blueprints" defined by a programmer called classes.
+As I mentioned on the main branch, Object-Oriented Programming (OOP) is a paradigm based on the concept of wrapping pieces of **data** (attributes) and **behaviour** (methods) into special bundles called objects, which are constructed from a set of "blueprints" defined by a programmer called classes.
 
 ## 2. Constructor
 
