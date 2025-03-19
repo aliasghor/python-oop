@@ -26,4 +26,4 @@ Class variables are variables that are shared across all instances of a class, w
 
 ## 4. Instance Methods
 
-Instance methods are methods whose first parameter is `self`. This parameter must be used because instance methods are bound to the object of a class. These methods are also used to either access or modify the object's attributes.
+Instance methods are methods whose first parameter is `self`. These methods must use `self` for their first paremeter because they are bound to the object of a class. These methods are also used to either access or modify the object's attributes.
