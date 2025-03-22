@@ -5,3 +5,5 @@ This repository contains my Python OOP (Object-Oriented Programming) tutorial ac
 # What Is Object-Oriented Programming (OOP)?
 
 According to the [Dive Into Design Patterns](https://refactoring.guru/design-patterns/book#:~:text=The%20book%20Dive%20Into%20Design%20Patterns%20illustrates%2022,then%20solves%20it%20using%20one%20of%20the%20patterns.) book which was explained by [Indonesia Belajar](https://www.youtube.com/watch?v=_Ld8wMr4OZ4&list=PL2O3HdJI4voFoyU6YyuLBdrsBSZWWtbQt), Object-Oriented Programming is a paradigm based on the concept of wrapping pieces of **data** (attributes) and **behaviour** (methods) into special bundles called [objects](https://docs.python.org/3/glossary.html#term-object), which are constructed from a set of "blueprints" defined by a programmer called [classes](https://docs.python.org/3/glossary.html#term-class).
+
+Often we hear the words "object" and "instance" interchangebly. However, in my opinion, object is a variable that has attributes and methods, whereas instance is a spesific object that is made from a class.
